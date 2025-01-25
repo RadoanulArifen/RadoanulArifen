@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Radoanul Arifen</h1>
+<h1 align="center">Hi 👋, This iss Radoanul Arifen</h1>
 <h3 align="center">Full Stack Web Developer with Python, Django & React | Building Scalable & Dynamic Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoanularifen&label=Profile%20views&color=0e75b6&style=flat" alt="radoanularifen" /> </p>
@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **radoanularifen@gmail.com** and **linkedin.com/in/radoanularifen**
+- 📫 How to reach me **radoanularifen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/radoanularifen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="radoanularifen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/radoanul arifen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radoanul arifen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/radoanularifen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/radoanularifen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radoanularifen&show_icons=true&locale=en&layout=compact" alt="radoanularifen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radoanularifen&" alt="radoanularifen" /></p>
-
