@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This iss Radoanul Arifen</h1>
+<h1 align="center">Hi 👋, This is Radoanul Arifen</h1>
 <h3 align="center">Full Stack Web Developer with Python, Django & React | Building Scalable & Dynamic Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoanularifen&label=Profile%20views&color=0e75b6&style=flat" alt="radoanularifen" /> </p>
