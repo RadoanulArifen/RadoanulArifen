@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **radoanularifen@gmail.com**
 
-- My Portfolio: [arifen-s-showcase.vercel.app](arifen-s-showcase.vercel.app)
+- 📄 Know about my experiences [arifen-s-showcase.vercel.app](arifen-s-showcase.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
