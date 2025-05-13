@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **radoanularifen@gmail.com**
 
-- 📄 Know about my experiences [arifen-s-showcase.vercel.app](arifen-s-showcase.vercel.app)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/radoanularifen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="radoanularifen" height="30" width="40" /></a>
