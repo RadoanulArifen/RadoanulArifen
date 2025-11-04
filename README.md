@@ -131,10 +131,10 @@ class RadoanulArifen:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=RadoanulArifen&theme=modern-lilac2&short_numbers=true)](https://git.io/streak-stats)
-</div>
+</div> -->
 
 <div align="center">
   
