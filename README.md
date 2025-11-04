@@ -124,8 +124,6 @@ class RadoanulArifen:
 
 ## 📊 **GitHub Analytics**
 
-## 📊 **GitHub Analytics**
-
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RadoanulArifen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
