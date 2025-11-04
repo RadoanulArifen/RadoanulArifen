@@ -133,7 +133,7 @@ class RadoanulArifen:
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=RadoanulArifen&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RadoanulArifen&theme=green-nur&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
