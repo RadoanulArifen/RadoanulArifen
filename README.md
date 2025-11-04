@@ -124,22 +124,24 @@ class RadoanulArifen:
 
 ## 📊 **GitHub Analytics**
 
+## 📊 **GitHub Analytics**
+
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baggie11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baggie11&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RadoanulArifen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadoanulArifen&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=baggie11&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadoanulArifen&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=baggie11&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RadoanulArifen&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
