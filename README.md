@@ -74,42 +74,45 @@ class RadoanulArifen:
 
 ### 🧩 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript," />
 </p>
 
 ### ⚛️ **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### 🖥️ **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
 
 ### 🗄️ **Database & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### 🧪 **Software Testing & QA Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest,postman" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Jira_%28Software%29_logo.svg" alt="JIRA" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="JMeter" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachejmeter.svg" alt="JMeter" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytest.svg" alt="PyTest" width="45" height="45"/>
 </p>
+
+
 
 ### 🤖 **Automation & CI/CD**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,jenkins,docker" />
+  <img src="https://skillicons.dev/icons?i=github,git" />
 </p>
 
-### 🧠 **Learning & Research Interests**
+<!-- ### 🧠 **Learning & Research Interests**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-</p>
+</p> -->
 
 ### ⚙️ **Development Environment**
 <p>
