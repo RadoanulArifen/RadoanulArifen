@@ -133,7 +133,7 @@ class RadoanulArifen:
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=RadoanulArifen&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RadoanulArifen&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
