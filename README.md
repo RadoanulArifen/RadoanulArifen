@@ -74,8 +74,7 @@ class RadoanulArifen:
 
 ### 🧩 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript," />
-</p>
+  <img src="https://skillicons.dev/icons?i=c,python,javascript" /></p>
 
 ### ⚛️ **Frontend Development**
 <p>
