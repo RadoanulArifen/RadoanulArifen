@@ -144,13 +144,13 @@ class RadoanulArifen:
 
 ---
 
-## 🏆 **GitHub Trophies**
+<!-- ## 🏆 **GitHub Trophies**
 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=RadoanulArifen&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
@@ -158,7 +158,8 @@ class RadoanulArifen:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=virtual-photobooth&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/StyleNova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=robomartbd-manual-testing&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/robomartbd-manual-testing)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=Ask_your_Bookmarks&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=Ml-Buddy&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=Mentorship_System&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
