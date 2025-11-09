@@ -157,7 +157,6 @@ class RadoanulArifen:
 
 <div align="center">
 
-### 🚀 Featured Projects
 
 ### 🚀 Featured Projects
 
