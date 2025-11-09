@@ -159,9 +159,12 @@ class RadoanulArifen:
 
 ### 🚀 Featured Projects
 
-### 🚀 Featured Projects
-
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=robomartbd-manual-testing&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/robomartbd-manual-testing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=StyleNova&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/StyleNova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=BuildMaster&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/BuildMaster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=HyperGamingX&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/HyperGamingX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=Foodie&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/Foodie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=SavoryBites&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/SavoryBites)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RadoanulArifen&repo=JobPortal&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/RadoanulArifen/JobPortal)
 
 </div>
